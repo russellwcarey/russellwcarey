@@ -67,7 +67,7 @@
 - Responsible for archiving and distributing mobile app via iOS and Android publishing channels.
 				
 ##  EDUCATION
-#### Devmountain							2020
+### Devmountain							2020
 #### QA Engineering Certificate of Completion
 ### Devmountain							2017-2018
 #### UX Design Coursework and Projects
