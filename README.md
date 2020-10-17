@@ -11,7 +11,7 @@
 #### Services: SaaS and REST.
 				
 
-#   PROFESSIONAL EXPERIENCE
+##   PROFESSIONAL EXPERIENCE
 ### Devmountain							July 2020 – August 2020
 ### QA Engineering Student
 - Test automation using Nightwatch.js, Chrome Dev Tools, CSS Selectors, XPath, VS Code, and Node.js.
