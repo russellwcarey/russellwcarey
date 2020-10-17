@@ -1,15 +1,14 @@
-### Hi there 👋
-#  SUMMARY
-## Over three years of Software Quality Assurance experience, leveraging a variety of technologies in Manual Testing for mobile, and automated testing for web technologies.  A unique blend of QA Engineering and UX Skills.
+##  SUMMARY
+### Over three years of Software Quality Assurance experience, leveraging a variety of technologies in Manual Testing for mobile, and automated testing for web technologies.  A unique blend of QA Engineering and UX Skills.
 				
-#   TECH SKILLS
-##	Skills:
-###	Proficient with: Selenium Webdriver, HTML, CSS, XPath, CSS Selectors, Balsamiq, Sketch, and Invision.  The design process, usability testing, Information Architecture, heuristic evaluations, user story maps, low and high-fidelity mockups, and interactive prototypes.
-### Familiar with: JavaScript, Nightwatch.js, Node.js, Bootstrap, SQL, Adobe XD, Craft, Optimalworkshop, Miro, Extensio.
-##  Software: 
-###	Database: MS-SQL, MySQL.
-###	Platforms: Windows, Linux, Visual Studio, VS Code, TFS, JIRA, Git, GitHub, Postman, JMeter.
-###	Services: SaaS and REST.
+##   TECH SKILLS
+###	 Skills:
+#### Proficient with: Selenium Webdriver, HTML, CSS, XPath, CSS Selectors, Balsamiq, Sketch, and Invision.  The design process, usability testing, Information Architecture, heuristic evaluations, user story maps, low and high-fidelity mockups, and interactive prototypes.
+#### Familiar with: JavaScript, Nightwatch.js, Node.js, Bootstrap, SQL, Adobe XD, Craft, Optimalworkshop, Miro, Extensio.
+###  Software: 
+#### Database: MS-SQL, MySQL.
+#### Platforms: Windows, Linux, Visual Studio, VS Code, TFS, JIRA, Git, GitHub, Postman, JMeter.
+#### Services: SaaS and REST.
 				
 
 #   PROFESSIONAL EXPERIENCE
