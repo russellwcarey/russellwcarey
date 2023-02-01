@@ -1,5 +1,5 @@
 ##  SUMMARY
-### Over three years of Software Quality Assurance experience, leveraging a variety of technologies in Manual Testing for mobile, and automated testing for web technologies.  A unique blend of QA Engineering and UX Skills.
+### Over five years of Software Quality Assurance experience, leveraging a variety of technologies in Manual Testing for mobile, and automated testing for web technologies.  A unique blend of QA Engineering and UX Skills.
 				
 ##   TECH SKILLS
 ###	 Skills:
